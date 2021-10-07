@@ -2,8 +2,6 @@
 
 ![img](https://github.com/ieti-eci/react-task-planner-2-AlejandroToro/blob/main/img/React.png)
 
-![img](https://github.com/ieti-eci/react-task-planner-2-AlejandroToro/blob/main/img/Task%20Planner.png)
-
 ## Author
 
 [Alejandro Toro Daza](https://github.com/Skullzo)
