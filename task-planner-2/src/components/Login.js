@@ -62,7 +62,7 @@ class Login extends Component{
 
     verificate(){
         if(this.state.email === "" && this.state.password === ""){
-            Swal.fire('Oops...', 'Llene todo los campos!!', 'error')
+            Swal.fire('Error', 'Please fill all fields', 'error')
         }else{
             this.verificateUser();
         }
